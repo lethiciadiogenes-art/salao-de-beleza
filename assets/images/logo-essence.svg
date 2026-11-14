@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Essence Beleza e Bem-Estar">
+  <!-- Recriação vetorial do selo Essence (quadrado areia com monograma E). Substitua pelo arquivo oficial da marca quando disponível. -->
+  <rect width="160" height="160" fill="#C29B74"/>
+  <rect x="8" y="8" width="144" height="144" fill="none" stroke="#FBF6EF" stroke-width="1.6" opacity=".9"/>
+  <text x="80" y="92" text-anchor="middle" font-family="'Cormorant Garamond','Marcellus',Georgia,'Times New Roman',serif" font-size="78" font-weight="500" fill="#FBF6EF">E</text>
+  <line x1="56" y1="34" x2="56" y2="96" stroke="#FBF6EF" stroke-width="1.2" opacity=".75"/>
+  <text x="80" y="122" text-anchor="middle" font-family="'Marcellus',Georgia,'Times New Roman',serif" font-size="15" letter-spacing="4.5" fill="#FBF6EF">ESSENCE</text>
+  <path d="M52 134c10-6 22-6 28 0s18 6 28 0" fill="none" stroke="#FBF6EF" stroke-width="1.2" stroke-linecap="round" opacity=".85"/>
+</svg>
